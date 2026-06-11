@@ -1,5 +1,7 @@
 # Job Description Analyzer
 
+🔗 **Live Demo:** https://elizabeth-shin.github.io/job-description-analyzer/
+
 Status: In development.
 
 An AI‑powered tool that reveals the real signals inside any job description — the skills, competencies, seniority expectations, and hidden requirements that determine whether a candidate is a strong match. Built using the Claude API, this analyzer transforms unstructured job descriptions into structured, actionable insights.
